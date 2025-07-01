@@ -8,9 +8,9 @@ Este repositório foi criado com o objetivo de documentar meus estudos e prátic
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- [Express](https://expressjs.com/) (opcional)
-- [nodemon](https://www.npmjs.com/package/nodemon) para desenvolvimento
-- [PostgreSQL](https://www.postgresql.org/) ou [MongoDB](https://www.mongodb.com/) para persistência
+- [Express](https://expressjs.com/) 
+- [nodemon](https://www.npmjs.com/package/nodemon) 
+- [PostgreSQL](https://www.postgresql.org/) 
 
 ---
 
@@ -56,9 +56,4 @@ Este repositório foi criado com o objetivo de documentar meus estudos e prátic
 
 ---
 
-## 🛠️ Como rodar o projeto
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
